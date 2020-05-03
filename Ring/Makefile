@@ -1,0 +1,3 @@
+COMPONENT=AppRing
+include $(MAKERULES)
+
